@@ -17,6 +17,22 @@ Comparative study of all the carousel / slider libraries available in NPM.
 |       ![pack][pack-nuka-carousel]       	|      ❌     	|      ✅      	|       ![size][size-nuka-carousel]       	|      	|       ![pop][pop-nuka-carousel]       	|         ✅         	|
 
 
+## Other comments
+
+|                Component                	| Comments                                                                                                    	|
+|:---------------------------------------:	|-------------------------------------------------------------------------------------------------------------	|
+|        ![pack][pack-react-slick]        	| No gap/gutter/space feature. Bug reported related to choppiness on iOS                                      	|
+| ![pack][pack-react-responsive-carousel] 	| Bad documentation. Except of gap all other features are supported.                                          	|
+|           ![pack][pack-swiper]          	| Works great !!!                                                                                             	|
+|    ![pack][pack-react-awesome-slider]   	| Fancy slider without much support like speed, space, friction                                               	|
+|    ![pack][pack-react-multi-carousel]   	| Bugs on iPhone                                                                                              	|
+|        ![pack][pack-tiny-slider]        	| Adds padding-right for gutter instead of margins.                                                           	|
+|        ![pack][pack-tiny-swiper]        	| Bugs related to responsiveness, clicking in navigation takes to last item, slide width decreases on refresh 	|
+|          ![pack][pack-flickity]         	| Purchase commercial license.                                                                                	|
+|       ![pack][pack-nuka-carousel]       	| Library by Formidable Labs. Bug related to wrap-around hastening the swiping.                               	|
+
+
+
 
 [size-react-slick]: https://badgen.net/bundlephobia/min/react-slick?label=
 [size-react-responsive-carousel]: https://badgen.net/bundlephobia/min/react-responsive-carousel?label=

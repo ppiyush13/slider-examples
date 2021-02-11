@@ -4,32 +4,32 @@ Comparative study of all the carousel / slider libraries available in NPM.
 
 ## Observations
 
-|                Component                	| React-land 	| Gap feature 	|              Minified size              	| Paid 	|               Downloads               	| Types declaration 	|
+|                Component                	| React-land 	| Gap feature 	|              Minified size              	| Free 	|               Downloads               	| Types declaration 	|
 |:---------------------------------------:	|:----------:	|:-----------:	|:---------------------------------------:	|:----:	|:-------------------------------------:	|:-----------------:	|
+|           ![pack][pack-swiper]          	|      ✅     	|      ✅      	|           ![size][size-swiper]          	|      	|           ![pop][pop-swiper]          	|         ✅         	|
 |        ![pack][pack-react-slick]        	|      ✅     	|      ❌      	|        ![size][size-react-slick]        	|      	|        ![pop][pop-react-slick]        	|         ✅         	|
 | ![pack][pack-react-responsive-carousel] 	|      ✅     	|      ❌      	| ![size][size-react-responsive-carousel] 	|      	| ![pop][pop-react-responsive-carousel] 	|         ✅         	|
-|           ![pack][pack-swiper]          	|      ✅     	|      ✅      	|           ![size][size-swiper]          	|      	|           ![pop][pop-swiper]          	|         ✅         	|
 |    ![pack][pack-react-awesome-slider]   	|      ✅     	|      ❌      	|    ![size][size-react-awesome-slider]   	|      	|    ![pop][pop-react-awesome-slider]   	|         ❌         	|
 |    ![pack][pack-react-multi-carousel]   	|      ✅     	|      ❌      	|    ![size][size-react-multi-carousel]   	|      	|    ![pop][pop-react-multi-carousel]   	|         ✅         	|
 |        ![pack][pack-tiny-slider]        	|      ❌     	|      ✅      	|        ![size][size-tiny-slider]        	|      	|        ![pop][pop-tiny-slider]        	|         ✅         	|
 |        ![pack][pack-tiny-swiper]        	|      ❌     	|      ✅      	|        ![size][size-tiny-swiper]        	|      	|        ![pop][pop-tiny-swiper]        	|         ✅         	|
-|          ![pack][pack-flickity]         	|      ❌     	|      ❌      	|          ![size][size-flickity]         	|   ✅  	|          ![pop][pop-flickity]         	|         ✅         	|
 |       ![pack][pack-nuka-carousel]       	|      ❌     	|      ✅      	|       ![size][size-nuka-carousel]       	|      	|       ![pop][pop-nuka-carousel]       	|         ✅         	|
+|          ![pack][pack-flickity]         	|      ❌     	|      ❌      	|          ![size][size-flickity]         	|   ❌  	|          ![pop][pop-flickity]         	|         ✅         	|
 
 
 ## Other comments
 
 |                Component                	| Comments                                                                                                    	|
 |:---------------------------------------:	|-------------------------------------------------------------------------------------------------------------	|
+|           ![pack][pack-swiper]          	| Works great !!!                                                                                             	|
 |        ![pack][pack-react-slick]        	| No gap/gutter/space feature. Bug reported related to choppiness on iOS                                      	|
 | ![pack][pack-react-responsive-carousel] 	| Bad documentation. Except of gap all other features are supported.                                          	|
-|           ![pack][pack-swiper]          	| Works great !!!                                                                                             	|
 |    ![pack][pack-react-awesome-slider]   	| Fancy slider without much support like speed, space, friction                                               	|
 |    ![pack][pack-react-multi-carousel]   	| Bugs on iPhone                                                                                              	|
 |        ![pack][pack-tiny-slider]        	| Adds padding-right for gutter instead of margins.                                                           	|
 |        ![pack][pack-tiny-swiper]        	| Bugs related to responsiveness, clicking in navigation takes to last item, slide width decreases on refresh 	|
-|          ![pack][pack-flickity]         	| Purchase commercial license.                                                                                	|
 |       ![pack][pack-nuka-carousel]       	| Library by Formidable Labs. Bug related to wrap-around hastening the swiping.                               	|
+|          ![pack][pack-flickity]         	| Purchase commercial license.                                                                                	|
 
 
 

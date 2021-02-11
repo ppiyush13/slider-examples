@@ -4,17 +4,17 @@ Comparative study of all the carousel / slider libraries available in NPM.
 
 ## Observations
 
-| Component                               	| react-land 	| gap-option 	| Minified size                           	| paid 	| Downloads                             	| types-available 	|
-|-----------------------------------------	|:----------:	|:----------:	|-----------------------------------------	|:----:	|---------------------------------------	|:---------------:	|
-| ![pack][pack-react-slick]               	|      ✅     	|      ❌     	| ![size][size-react-slick]               	|      	| ![pop][pop-react-slick]               	|                 	|
-| ![pack][pack-react-responsive-carousel] 	|      ✅     	|      ❌     	| ![size][size-react-responsive-carousel] 	|      	| ![pop][pop-react-responsive-carousel] 	|                 	|
-| ![pack][pack-swiper]                    	|      ✅     	|      ✅     	| ![size][size-swiper]                    	|      	| ![pop][pop-swiper]                    	|        ✅        	|
-| ![pack][pack-react-awesome-slider]      	|      ✅     	|      ❌     	| ![size][size-react-awesome-slider]      	|      	| ![pop][pop-react-awesome-slider]      	|                 	|
-| ![pack][pack-react-multi-carousel]      	|      ✅     	|      ❌     	| ![size][size-react-multi-carousel]      	|      	| ![pop][pop-react-multi-carousel]      	|                 	|
-| ![pack][pack-tiny-slider]               	|      ❌     	|      ✅     	| ![size][size-tiny-slider]               	|      	| ![pop][pop-tiny-slider]               	|                 	|
-| ![pack][pack-tiny-swiper]               	|      ❌     	|      ✅     	| ![size][size-tiny-swiper]               	|      	| ![pop][pop-tiny-swiper]               	|                 	|
-| ![pack][pack-flickity]                  	|      ❌     	|      ❌     	| ![size][size-flickity]                  	|   ✅  	| ![pop][pop-flickity]                  	|                 	|
-| ![pack][pack-nuka-carousel]             	|      ❌     	|      ✅     	| ![size][size-nuka-carousel]             	|      	| ![pop][pop-nuka-carousel]             	|        ✅        	|
+|                Component                	| React-land 	| Gap feature 	|              Minified size              	| Paid 	|               Downloads               	| Types declaration 	|
+|:---------------------------------------:	|:----------:	|:-----------:	|:---------------------------------------:	|:----:	|:-------------------------------------:	|:-----------------:	|
+|        ![pack][pack-react-slick]        	|      ✅     	|      ❌      	|        ![size][size-react-slick]        	|      	|        ![pop][pop-react-slick]        	|         ✅         	|
+| ![pack][pack-react-responsive-carousel] 	|      ✅     	|      ❌      	| ![size][size-react-responsive-carousel] 	|      	| ![pop][pop-react-responsive-carousel] 	|         ✅         	|
+|           ![pack][pack-swiper]          	|      ✅     	|      ✅      	|           ![size][size-swiper]          	|      	|           ![pop][pop-swiper]          	|         ✅         	|
+|    ![pack][pack-react-awesome-slider]   	|      ✅     	|      ❌      	|    ![size][size-react-awesome-slider]   	|      	|    ![pop][pop-react-awesome-slider]   	|         ❌         	|
+|    ![pack][pack-react-multi-carousel]   	|      ✅     	|      ❌      	|    ![size][size-react-multi-carousel]   	|      	|    ![pop][pop-react-multi-carousel]   	|         ✅         	|
+|        ![pack][pack-tiny-slider]        	|      ❌     	|      ✅      	|        ![size][size-tiny-slider]        	|      	|        ![pop][pop-tiny-slider]        	|         ✅         	|
+|        ![pack][pack-tiny-swiper]        	|      ❌     	|      ✅      	|        ![size][size-tiny-swiper]        	|      	|        ![pop][pop-tiny-swiper]        	|         ✅         	|
+|          ![pack][pack-flickity]         	|      ❌     	|      ❌      	|          ![size][size-flickity]         	|   ✅  	|          ![pop][pop-flickity]         	|         ✅         	|
+|       ![pack][pack-nuka-carousel]       	|      ❌     	|      ✅      	|       ![size][size-nuka-carousel]       	|      	|       ![pop][pop-nuka-carousel]       	|         ✅         	|
 
 
 

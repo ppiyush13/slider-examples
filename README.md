@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Slider examples
+
+This project includes demonstration for tiny-slider and tiny-swiper
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

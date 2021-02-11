@@ -10,6 +10,8 @@ const Wrapper = styled.div`
     font-size: 18px;
     align-items: center;
     cursor: grab;
+    height: 500px;
+    width: 500px;
 
     img {
         display: block;

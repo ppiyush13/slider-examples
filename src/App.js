@@ -1,7 +1,12 @@
 import React from 'react';
 import Card from './Card';
-import TinySlider from './TinySlider';
-import TinySwiper from './TinySwiper';
+// import TinySlider from './TinySlider';
+//import TinySwiper from './TinySwiper';
+ import ReactSlick from './ReactSlick';
+//import ReactSwiper from './Swiper';
+//import Nuka from './Nuka';
+import AwesomeSlider from './AwesomeSlider';
+import ResponsiveCarousel from './ResponsiveCarousel';
 
 const Cards = React.Children.toArray([
     <Card src={'https://user-images.githubusercontent.com/10026019/102327273-74284900-3fc0-11eb-913a-69661b73ab5d.png'} />,
@@ -20,8 +25,13 @@ export default () => {
 
     return <>
         <button onClick={onClick}>Re-render</button>
-        <TinySwiper>{Cards}</TinySwiper>
-        <TinySlider items1={state}>{React.Children.toArray(Cards)}</TinySlider>
+        <ResponsiveCarousel>{Cards}</ResponsiveCarousel>
+        {/* <AwesomeSlider>{Cards}</AwesomeSlider> */}
+        {/* <Nuka>{Cards}</Nuka> */}
+        {/* <ReactSwiper>{Cards}</ReactSwiper> */}
+        {/* <ReactSlick>{Cards}</ReactSlick> */}
+        {/* <TinySwiper>{Cards}</TinySwiper> */}
+        {/* <TinySlider items1={state}>{React.Children.toArray(Cards)}</TinySlider> */}
     </>
 };
 

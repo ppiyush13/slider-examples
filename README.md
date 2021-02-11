@@ -2,73 +2,18 @@
 
 This project includes demonstration for tiny-slider and tiny-swiper
 
-## Getting Started with Create React App
+## Comparison
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+| Component                 | react-land | jQuery-based | gap-option | size | paid | popularity | types-available | comments                                                                                                    |
+|---------------------------|------------|--------------|------------|------|------|------------|-----------------|-------------------------------------------------------------------------------------------------------------|
+| react-slick               | Y          | Y            | N          | 60.4 |      | 668K       |                 | No gap/gutter/space feature. Bug reported related to choppiness on iOS                                      |
+| react-responsive-carousel | Y          |              | N          | 33   |      | 90K        |                 | Bad documentation. Except of gap all other features are supported.                                          |
+| swiper                    | Y          |              | Y          | 141  |      | 394K       |                 | Works great !!!                                                                                             |
+| react-awesome-slider      | Y          |              | N          | 36   |      | 9K         |                 | Fancy slider without much support like speed, space, friction                                               |
+| react-multi-carousel      | Y          |              | N          | 22   |      | 41K        |                 | Bugs on iPhone                                                                                              |
+| tiny-slider               | N          |              | Y          | 31   |      | 32K        |                 | Adds padding-right for gutter instead of margins.                                                           |
+| tiny-swiper               | N          |              | Y          | 10   |      | 5K         |                 | Bugs related to responsiveness, clicking in navigation takes to last item, slide width decreases on refresh |
+| flickity                  | N          |              | N          | 42   | Y    | 56K        |                 | Purchase commercial license.                                                                                |
+| nuka-carousel             | N          |              | Y          | 80   |      | 77K        | Y               | Library by Formidable Labs. Bug related to wrap-around hastening the swiping.                               |
+|                           |            |              |            |      |      |            |                 |                                                                                                             |
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

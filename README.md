@@ -1,6 +1,6 @@
 # Slider examples
 
-Comparative study of all the carousel / slider libraries available in NPM.
+Comparative study of multiple carousel / slider libraries available in NPM.
 
 ## Observations
 

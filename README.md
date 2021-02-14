@@ -16,6 +16,20 @@ Comparative study of all the carousel / slider libraries available in NPM.
 |       ![pack][pack-nuka-carousel]       	|      ❌     	|      ✅      	|       ![size][size-nuka-carousel]       	|      	|       ![pop][pop-nuka-carousel]       	|         ✅         	|
 |          ![pack][pack-flickity]         	|      ❌     	|      ❌      	|          ![size][size-flickity]         	|   ❌  	|          ![pop][pop-flickity]         	|         ✅         	|
 
+# Github analysis
+
+|                Component                	|                  Stars                  	|               Last release date               	|                 Open Issues                 	|
+|:---------------------------------------:	|:---------------------------------------:	|:---------------------------------------------:	|:-------------------------------------------:	|
+|           ![pack][pack-swiper]          	|           ![star][star-swiper]          	|           ![release][release-swiper]          	|           ![issues][issues-swiper]          	|
+|        ![pack][pack-react-slick]        	|        ![star][star-react-slick]        	|        ![release][release-react-slick]        	|        ![issues][issues-react-slick]        	|
+| ![pack][pack-react-responsive-carousel] 	| ![star][star-react-responsive-carousel] 	| ![release][release-react-responsive-carousel] 	| ![issues][issues-react-responsive-carousel] 	|
+|    ![pack][pack-react-awesome-slider]   	|    ![star][star-react-awesome-slider]   	|    ![release][release-react-awesome-slider]   	|    ![issues][issues-react-awesome-slider]   	|
+|    ![pack][pack-react-multi-carousel]   	|    ![star][star-react-multi-carousel]   	|    ![release][release-react-multi-carousel]   	|    ![issues][issues-react-multi-carousel]   	|
+|        ![pack][pack-tiny-slider]        	|        ![star][star-tiny-slider]        	|        ![release][release-tiny-slider]        	|        ![issues][issues-tiny-slider]        	|
+|        ![pack][pack-tiny-swiper]        	|        ![star][star-tiny-swiper]        	|        ![release][release-tiny-swiper]        	|        ![issues][issues-tiny-swiper]        	|
+|       ![pack][pack-nuka-carousel]       	|       ![star][star-nuka-carousel]       	|       ![release][release-nuka-carousel]       	|       ![issues][issues-nuka-carousel]       	|
+|          ![pack][pack-flickity]         	|          ![star][star-flickity]         	|          ![release][release-flickity]         	|          ![issues][issues-flickity]         	|
+
 
 ## Other comments
 
@@ -63,3 +77,34 @@ Comparative study of all the carousel / slider libraries available in NPM.
 [pack-tiny-swiper]: https://img.shields.io/npm/v/tiny-swiper?label=tiny-swiper
 [pack-flickity]: https://img.shields.io/npm/v/flickity?label=flickity
 [pack-nuka-carousel]: https://img.shields.io/npm/v/nuka-carousel?label=nuka-carousel
+
+[star-swiper]: https://img.shields.io/github/stars/nolimits4web/Swiper?label=%20
+[star-react-responsive-carousel]: https://img.shields.io/github/stars/leandrowd/react-responsive-carousel?label=%20
+[star-react-slick]: https://img.shields.io/github/stars/akiran/react-slick?label=%20
+[star-react-awesome-slider]: https://img.shields.io/github/stars/rcaferati/react-awesome-slider?label=%20
+[star-react-multi-carousel]: https://img.shields.io/github/stars/YIZHUANG/react-multi-carousel?label=%20
+[star-tiny-slider]: https://img.shields.io/github/stars/ganlanyuan/tiny-slider?label=%20
+[star-tiny-swiper]: https://img.shields.io/github/stars/joe223/tiny-swiper?label=%20
+[star-flickity]: https://img.shields.io/github/stars/metafizzy/flickity?label=%20
+[star-nuka-carousel]: https://img.shields.io/github/stars/FormidableLabs/nuka-carousel?label=%20
+
+
+[release-react-slick]: https://img.shields.io/github/release-date/akiran/react-slick?label=%20
+[release-react-responsive-carousel]: https://img.shields.io/github/release-date/leandrowd/react-responsive-carousel?label=%20
+[release-swiper]: https://img.shields.io/github/release-date/nolimits4web/Swiper?label=%20
+[release-react-awesome-slider]: https://img.shields.io/github/release-date/rcaferati/react-awesome-slider?label=%20
+[release-react-multi-carousel]: https://img.shields.io/github/release-date/YIZHUANG/react-multi-carousel?label=%20
+[release-tiny-slider]: https://img.shields.io/github/release-date/ganlanyuan/tiny-slider?label=%20
+[release-tiny-swiper]: https://img.shields.io/github/release-date/joe223/tiny-swiper?label=%20
+[release-flickity]: https://img.shields.io/github/release-date/metafizzy/flickity?label=%20
+[release-nuka-carousel]: https://img.shields.io/github/release-date/FormidableLabs/nuka-carousel?label=%20
+
+[issues-swiper]: https://img.shields.io/github/issues-raw/nolimits4web/Swiper?label=%20
+[issues-react-responsive-carousel]: https://img.shields.io/github/issues-raw/leandrowd/react-responsive-carousel?label=%20
+[issues-react-slick]: https://img.shields.io/github/issues-raw/akiran/react-slick?label=%20
+[issues-react-awesome-slider]: https://img.shields.io/github/issues-raw/rcaferati/react-awesome-slider?label=%20
+[issues-react-multi-carousel]: https://img.shields.io/github/issues-raw/YIZHUANG/react-multi-carousel?label=%20
+[issues-tiny-slider]: https://img.shields.io/github/issues-raw/ganlanyuan/tiny-slider?label=%20
+[issues-tiny-swiper]: https://img.shields.io/github/issues-raw/joe223/tiny-swiper?label=%20
+[issues-flickity]: https://img.shields.io/github/issues-raw/metafizzy/flickity?label=%20
+[issues-nuka-carousel]: https://img.shields.io/github/issues-raw/FormidableLabs/nuka-carousel?label=%20
